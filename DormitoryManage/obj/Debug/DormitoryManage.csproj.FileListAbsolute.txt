@@ -1,0 +1,14 @@
+D:\Desktop\LESSON\数据库原理与上机\完成作业\C#Connection\DormitoryManage\bin\Debug\DormitoryManage.exe.config
+D:\Desktop\LESSON\数据库原理与上机\完成作业\C#Connection\DormitoryManage\bin\Debug\DormitoryManage.exe
+D:\Desktop\LESSON\数据库原理与上机\完成作业\C#Connection\DormitoryManage\bin\Debug\DormitoryManage.pdb
+D:\Desktop\LESSON\数据库原理与上机\完成作业\C#Connection\DormitoryManage\obj\Debug\DormitoryManage.csprojAssemblyReference.cache
+D:\Desktop\LESSON\数据库原理与上机\完成作业\C#Connection\DormitoryManage\obj\Debug\DormitoryManage.Properties.Resources.resources
+D:\Desktop\LESSON\数据库原理与上机\完成作业\C#Connection\DormitoryManage\obj\Debug\DormitoryManage.csproj.GenerateResource.cache
+D:\Desktop\LESSON\数据库原理与上机\完成作业\C#Connection\DormitoryManage\obj\Debug\DormitoryManage.csproj.CoreCompileInputs.cache
+D:\Desktop\LESSON\数据库原理与上机\完成作业\C#Connection\DormitoryManage\obj\Debug\DormitoryManage.exe
+D:\Desktop\LESSON\数据库原理与上机\完成作业\C#Connection\DormitoryManage\obj\Debug\DormitoryManage.pdb
+D:\Desktop\LESSON\数据库原理与上机\完成作业\C#Connection\DormitoryManage\bin\Debug\MySQLDriverCS.dll
+D:\Desktop\LESSON\数据库原理与上机\完成作业\C#Connection\DormitoryManage\obj\Debug\DormitoryManage.csproj.CopyComplete
+D:\Desktop\LESSON\数据库原理与上机\完成作业\C#Connection\DormitoryManage\obj\Debug\DormitoryManage.StudentHost.resources
+D:\Desktop\LESSON\数据库原理与上机\完成作业\C#Connection\DormitoryManage\obj\Debug\DormitoryManage.StudentInfo.resources
+D:\Desktop\LESSON\数据库原理与上机\完成作业\C#Connection\DormitoryManage\obj\Debug\DormitoryManage.DormitoryManage.resources
